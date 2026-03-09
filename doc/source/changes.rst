@@ -3,6 +3,14 @@ Changelog
 #########
 
 ******
+v5.0.3
+******
+
+- declare support for Python 3.13
+
+For more, see https://github.com/gitpython-developers/smmap/compare/v5.0.3...v5.0.2
+
+******
 v5.0.2
 ******
 
